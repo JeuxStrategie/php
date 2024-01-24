@@ -56,5 +56,7 @@ Et l'oiseau satinant son aile
 dit des vers au rebord du nid
 
 Ma belle amie est morte
-Je pleurerai toujours</p>
+Je pleurerai toujours
+Sur la tombe elle emporte mon ame
+et mes amours</p>
 
