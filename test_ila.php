@@ -53,5 +53,8 @@ Le printemps est venu ma belle
 c'est le mois des amants béni
 
 Et l'oiseau satinant son aile
-dit des vers au rebord du nid</p>
+dit des vers au rebord du nid
+
+Ma belle amie est morte
+Je pleurerai toujours</p>
 
