@@ -60,3 +60,6 @@ Je pleurerai toujours
 Sur la tombe elle emporte mon ame
 et mes amours</p>
 
+Va pensiera sul l'alli dorate
+Va ti posa sui clivi sui colli
+
