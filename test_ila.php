@@ -58,7 +58,12 @@ dit des vers au rebord du nid
 Ma belle amie est morte
 Je pleurerai toujours
 Sur la tombe elle emporte mon ame
-et mes amours</p>
+et mes amours
+
+O jour de deuil
+O jour de larmes
+</p>
+h1 { color : blue}
 
 Va pensiera sul l'alli dorate
 Va ti posa sui clivi sui colli
