@@ -16,6 +16,11 @@ $recipesStatement->execute(['author' => $_GET['author']]);
 $recipes = $recipesStatement->fetchAll(PDO::FETCH_ASSOC);
 ?>
 
+La la la la la partons, partons, partons
+La la la la la partons, partons, partons
+Oui partons partons partons partons partons
+Plus de nectar, plus de ciel bleu
+
 
 <?php /* echo '<pre>';
 print_r($recipes);
