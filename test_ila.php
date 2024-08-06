@@ -16,6 +16,8 @@ $recipesStatement->execute(['author' => $_GET['author']]);
 $recipes = $recipesStatement->fetchAll(PDO::FETCH_ASSOC);
 ?>
 
+BOUM BOUM TAMBOUR
+
 La la la la la partons, partons, partons
 La la la la la partons, partons, partons
 Oui partons partons partons partons partons
@@ -74,4 +76,6 @@ Va pensiera sul l'alli dorate
 Va ti posa sui clivi sui colli
 
 L'amour est enfant de boheme
+
+OSSELETS
 
