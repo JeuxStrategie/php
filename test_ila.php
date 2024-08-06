@@ -1,4 +1,6 @@
 <!-- inclusion des variables et fonctions -->
+
+BOULEZ
 <?php
 session_start();
 require_once(__DIR__ . '/config/mysql.php');
@@ -77,5 +79,8 @@ Va ti posa sui clivi sui colli
 
 L'amour est enfant de boheme
 
+
+stockhausen
+et
 OSSELETS
 
